@@ -1,0 +1,4 @@
+
+command to run server is
+
+npm run dev
